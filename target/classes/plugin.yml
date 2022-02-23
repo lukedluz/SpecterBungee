@@ -1,0 +1,5 @@
+name: SpecterBungee
+main: com.lucas.specterbungee.Main
+version: 1.0
+author: [Specter]
+depends: [BungeePerms]
